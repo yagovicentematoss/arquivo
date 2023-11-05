@@ -1,18 +1,18 @@
 h1 {
-    color: hotpink;
+    color: red;
 }
 h2{
-    color: hotpink;
+    color: blue;
 }
 h3{
-    color: hotpink;
+    color: blue;
 }
 h4 {
-    color: hotpink;
+    color: blue;
 }
 
 body {
-    background-color: lavender;
+    background-color:darkslategrey;
 
     text-align: center;
 }
@@ -23,21 +23,21 @@ body {
  text-align: center;
 }
 
-.unicornio {
+.lobo {
     font-style: initial;
 
 }
-.brilho {
-   color: deeppink;
+.coelho {
+   color: red;
     font-style: italic
 }
 .lista {
         display: inline-block;
         padding: 5%;
         margin-right: 10%;
-        color: fuchsia;
+        color: blue;
         padding: 5%;
-        border-color: pink;
+        border-color:red;
         border-width: 20px;
         border-style: solid;
         border-radius: 12px 50px 2px 120px;
@@ -46,14 +46,14 @@ body {
 nav a{
     text-transform: uppercase;
     text-align: center;
-    color: darkorchid;
+    color: red;
     font-weight: 300;
     font-size: 100%;
     text-decoration: none ;
-    border-color: pink;
+    border-color: gray;
     border-width: 10px;
     border-style: solid; 
-    backgound-color: pink;
+    backgound-color: gray;
 }
 nav a:hover {
     color: orange;
